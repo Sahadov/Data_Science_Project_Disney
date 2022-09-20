@@ -30,6 +30,6 @@ Using a list of all Disney's films from the Wikipedia, we collected all the info
 
 * Cleaned CSV file with the information about films
 
-* Statistical information (Disney.ipynb)
+* Main file (Disney.ipynb)
 
-* Graphs (Disneys.ipynb)
+* Statistical report in PDF (Disney DS report (RU).pdf)
